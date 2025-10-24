@@ -13,13 +13,13 @@ The `MediaEmbed` option in `fof/formatting` must be enabled for this extension t
 Install with composer:
 
 ```sh
-composer require sycho/flarum-lite-youtube:"*"
+composer require constructions-incongrues/flarum-lite-youtube:"*"
 ```
 
 ## Updating
 
 ```sh
-composer update sycho/flarum-lite-youtube:"*"
+composer update constructions-incongrues/flarum-lite-youtube:"*"
 php flarum migrate
 php flarum cache:clear
 ```
