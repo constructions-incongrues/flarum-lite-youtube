@@ -1,5 +1,5 @@
 {
-    "name": "@sycho/flarum-lite-youtube",
+    "name": "@constructions-incongrues/flarum-lite-youtube",
     "private": true,
     "version": "0.0.0",
     "devDependencies": {
@@ -26,6 +26,6 @@
     },
     "prettier": "@flarum/prettier-config",
     "dependencies": {
-        "@justinribeiro/lite-youtube": "^1.4.0"
+        "@justinribeiro/lite-youtube": "^1.8.0"
     }
 }

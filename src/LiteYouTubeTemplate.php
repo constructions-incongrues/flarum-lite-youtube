@@ -14,6 +14,6 @@ class LiteYouTubeTemplate
 
         $tag = $config->tags['YOUTUBE'];
 
-        $tag->template = '<lite-youtube videoid="{@id}"></lite-youtube>';
+        $tag->template = '<lite-youtube nocookie autopause videoid="{@id}"></lite-youtube>';
     }
 }
